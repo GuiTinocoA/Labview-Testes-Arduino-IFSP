@@ -5,7 +5,14 @@ Estas configurações são necessárias para qualquer um dos programas que utili
 ![Intruções](imagens/1.png)
 
 Após isso abra a aba tools, clique em makerhub, linx, e Firmware Wizard.
-![Instruções](imagens/2.png)
+![Instruções1](imagens/2.png)
+
+Ao abrir o wizard de instalação, escolha seu modelo de arduino, e clique em "Next".
+![Instruções2](imagens/3.png)
+
+Escolha a porta serial(usb) que seu arduino esta conectado e clique em "Next", após terminar clique em "Finalizar".
+![Instruções3](imagens/4.png)
+
 
 
 # Capturas de Tela
@@ -13,5 +20,6 @@ Após isso abra a aba tools, clique em makerhub, linx, e Firmware Wizard.
 ![Interface do programa](imagens/TesteSensoresPrint.png)
 ### Controle Ponte H - Motores:
 ![Interface do programa2](imagens/TestePonteHPrint.png)
+
 
 
