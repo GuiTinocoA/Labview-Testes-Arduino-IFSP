@@ -18,8 +18,10 @@ Escolha a porta serial(usb) que seu arduino esta conectado e clique em "Next", a
 # Capturas de Tela
 ### Teste de sensores:
 ![Interface do programa](imagens/TesteSensoresPrint.png)
+Antes de rodar o programa, selecione as portas de cada sensor e o usb do arduino, as portas dos sensores é apenas o número que esta o arduino não necessitando de nenhum outro digito (ex: A0  =  0).
 ### Controle Ponte H - Motores:
 ![Interface do programa2](imagens/TestePonteHPrint.png)
+Para o programa do teste de motores, siga as instruções anteriores, sendo as entradas Pino Motor + ou - as portas IN1, IN2, IN3 e IN4 da ponte H, e o controle PWM + e - o controle de quanto ele gira para cada sentido (para mudar de direção é necessário zerar a outra)
 
 
 
