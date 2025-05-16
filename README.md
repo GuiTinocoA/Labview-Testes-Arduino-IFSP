@@ -1,4 +1,4 @@
-# Labview-Testes-Arduino-IFSP
+# LabVIEW-Testes-Arduino-IFSP
 Os programas disponibilizados foram desenvolvidos para testes de dispositivos utilizados no projeto desenvolvido na disciplina de Introdução à Engenharia dos cursos de Engenharia de Controle e Automação e Engenharia Eletrônica do IFSP. Os programas desenvolvidos são destinados aos testes dos principais sensores e do sistema de acionamento dos motores utilizados num robô que segue linhas e evita choques com obstáculos. A ferramenta permite apresentar de maneira visual o funcionamento dos dispositivos por meio de gráficos, com uma integração simples com o microcontrolador Arduino.
 # Nota:
 Todo o código foi feito no LabVIEW 2018. O uso em versões inferiores pode apresentar problemas. Recomenda-se o uso do LabVIEW 2018 ou mais recente.
