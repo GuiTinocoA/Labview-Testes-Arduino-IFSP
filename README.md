@@ -1,6 +1,7 @@
 # LabVIEW-Tests-Arduino-IFSP
 The provided programs were developed for testing devices used in a project carried out in the Introduction to Engineering course of the Control and Automation Engineering and Electronic Engineering programs at IFSP. The developed programs are intended for testing the main sensors and the motor actuation system used in a line-following and obstacle-avoiding robot. The tool enables a visual representation of the devices’ operation through graphs, offering simple integration with the Arduino microcontroller.
-Todo o código foi feito no LabVIEW 2018. O uso em versões inferiores pode apresentar problemas. Recomenda-se o uso do LabVIEW 2018 ou mais recente.
+# Note
+All the code was developed in LabVIEW 2018. Using older versions may cause issues. It is recommended to use LabVIEW 2018 or later.
 # Initial setup:
 These configurations are required for any of the programs that use Arduinos. The first step is to open the project and then open the "Tela principal.vi" file.   
 ![Intruções0](imagens/1.png)
