@@ -19,10 +19,10 @@ Select the serial (USB) port your Arduino is connected to and click "Next". Afte
 
 # Screenshots
 ### Sensor Testing:
-![Interface do programa](imagens/TesteSensoresPrint.png)
+![Interface do programa](imagens/5.png)
 Before running the program, select the ports for each sensor and the Arduino's USB port. Sensor ports should be entered using only the number assigned on the Arduino, without any prefix (e.g., A0 = 0).
 ### H-Bridge Control - Motors:
-![Interface do programa2](imagens/TestePonteHPrint.png)
+![Interface do programa2](imagens/6.png)
 For the motor test program, follow the previous instructions. The Motor Pin + and Motor Pin - inputs correspond to the IN1, IN2, IN3, and IN4 pins of the H-Bridge. The PWM + and PWM - control the speed of rotation in each direction. To change direction, it is necessary to set the PWM of one direction to zero.
 
 
